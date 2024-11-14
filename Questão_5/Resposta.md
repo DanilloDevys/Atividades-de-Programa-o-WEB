@@ -1,0 +1,1 @@
+questão 5: O Flexbox é ideal para layouts unidimensionais, alinhando itens em uma direção (linha ou coluna). Já o CSS Grid é mais adequado para layouts bidimensionais, controlando simultaneamente linhas e colunas, sendo ideal para páginas complexas, galerias, tabelas e dashboards com seções de tamanhos específicos.
